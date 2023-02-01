@@ -31,6 +31,7 @@ def is_unique_list(input_string):
   
   finally:
     return result
+    pass
 
 
 print(is_unique_list(input('Enter list of numbers: ')))
